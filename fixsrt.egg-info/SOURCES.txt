@@ -1,0 +1,7 @@
+README.md
+setup.py
+fixsrt/__init__.py
+fixsrt.egg-info/PKG-INFO
+fixsrt.egg-info/SOURCES.txt
+fixsrt.egg-info/dependency_links.txt
+fixsrt.egg-info/top_level.txt

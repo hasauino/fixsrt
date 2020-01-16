@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: pyfixsrt
+Version: 0.0.1
+Summary: A python script to fix srt file exported from sonix ai with double lines encoded with a special string
+Home-page: https://github.com/hasauino/fixsrt
+Author: Hassan Umari
+Author-email: oh91@windowslive.com
+License: UNKNOWN
+Description: # fixsrt
+        A python script to fix srt file exported from sonix ai with double lines encoded with a special string
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
